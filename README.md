@@ -60,7 +60,7 @@ while True:
 ```
 ## OUPUT - ARP
 <img width="490" height="272" alt="image" src="https://github.com/user-attachments/assets/eb716b21-3cc0-42f6-8797-48238db0eebd" />
-<img width="501" height="291" alt="image" src="https://github.com/user-attachments/assets/899d3de1-3cff-418f-8482-88e5260ad5fc" />
+<img width="488" height="238" alt="image" src="https://github.com/user-attachments/assets/81964e14-3c19-462d-a382-80a0f7dc4ab7" />
 
 ## PROGRAM - RARP
 client side:
@@ -108,7 +108,7 @@ while True:
 ## OUPUT -RARP
 
 <img width="490" height="190" alt="image" src="https://github.com/user-attachments/assets/520d2b87-626e-4229-aefe-26766c4e4c2d" />
-<img width="997" height="280" alt="image" src="https://github.com/user-attachments/assets/d5f7ee9c-389d-45b1-afe2-48756923ab3b" />
+<img width="499" height="224" alt="image" src="https://github.com/user-attachments/assets/7f8823e5-b64f-4d2c-aecf-594500988a12" />
 
 
 ## RESULT
