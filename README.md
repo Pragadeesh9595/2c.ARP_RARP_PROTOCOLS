@@ -17,6 +17,7 @@ stored.
 5. Map the IP address with its MAC address and return the MAC address to client.
 P
 ## PROGRAM - ARP
+cliend side:
 ```
 import socket
 
@@ -42,7 +43,7 @@ while True:
     except KeyError:
         c.send("Not Found".encode())
 ```
-client side:
+server side:
 ```
 import socket
 
@@ -62,7 +63,7 @@ while True:
 <img width="501" height="291" alt="image" src="https://github.com/user-attachments/assets/899d3de1-3cff-418f-8482-88e5260ad5fc" />
 
 ## PROGRAM - RARP
-server side:
+client side:
 ```
 import socket
 
@@ -88,7 +89,7 @@ while True:
     except KeyError:
         c.send("Not Found".encode())
 ```
-client side:
+server side:
 
 ```
 import socket
